@@ -1,0 +1,39 @@
+/*reset css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /*o codigo abaixo é para a autura */
+    height: 1080px;
+    background-color: rgb(147, 230, 244);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 128px;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 42px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.destaque {
+    background-color: #000;
+    color: #fafafa;
+    padding: 8px 32px;
+    transition: 2s;
+}
+
+.destaque:hover{
+    padding: 25px 60px;
+    background-color: rgb(43, 66, 141);
+    color: #fafafa;
+}

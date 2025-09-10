@@ -1,0 +1,167 @@
+ /* reset css */
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ body{
+   font-family: Arial, sans-serif;
+   background-color: #111;
+   color: #fff;
+   display: flex;
+   justify-content: center;
+   padding: 20px;
+
+ }
+ main{
+   max-width: 1200px;
+  width: 100%;
+  text-align: center;
+   
+   
+ }
+ h1{
+    font-size: 128px;
+    font-family: sans-serif;
+    text-align: center;
+
+ } 
+ h2{
+    text-align: center;
+    font-size: 48px;
+    font-family: sans-serif;
+    font-weight: 10;
+ }
+ .destaque {
+    background-color: rgb(0, 139, 226);
+    color: #fff;
+    padding: 0px 35px;
+    transition: 1s;
+    border-radius: 15px
+    
+ }
+
+    .destaque:hover{
+        background-color: blueviolet;
+        padding: 5px 10px;
+        
+    }
+.social-container img{
+   width: 100px;
+
+
+}
+.social-container{
+   background-color: rgb(0, 0, 0);
+   border-radius: 20px;
+   display: flex;
+   justify-content:  space-evenly;
+   padding: 40px;
+
+}
+.Instagram-foto{
+   background-color: azure;
+   padding: 15px 15px;
+   border-radius: 10px;
+   
+   
+}
+.Linkedin-foto{
+   background-color: azure;
+   padding: 15px 15px;
+   border-radius: 10px;
+}
+.Github-foto{
+   background-color: azure;
+   padding: 15px 15px;
+   border-radius: 10px;
+
+}
+.Zap-foto{
+   background-color: azure;
+   padding: 15px 15px;
+   border-radius: 10px;
+} /* reset css */
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+
+}
+main{
+  max-width: 1200px;
+ width: 100%;
+ text-align: center;
+  
+  
+}
+h1{
+   font-size: 128px;
+   font-family: sans-serif;
+   text-align: center;
+
+} 
+h2{
+   text-align: center;
+   font-size: 48px;
+   font-family: sans-serif;
+   font-weight: 10;
+}
+.destaque {
+   background-color: rgb(0, 139, 226);
+   color: #fff;
+   padding: 0px 35px;
+   transition: 1s;
+   border-radius: 15px
+   
+}
+
+   .destaque:hover{
+       background-color: blueviolet;
+       padding: 5px 10px;
+       
+   }
+.social-container img{
+  width: 100px;
+
+
+}
+.social-container{
+  background-color: rgb(0, 0, 0);
+  border-radius: 20px;
+  display: flex;
+  justify-content:  space-evenly;
+  padding: 40px;
+
+}
+.Instagram-foto{
+  background-color: azure;
+  padding: 15px 15px;
+  border-radius: 10px;
+  
+  
+}
+.Linkedin-foto{
+  background-color: azure;
+  padding: 15px 15px;
+  border-radius: 10px;
+}
+.Github-foto{
+  background-color: azure;
+  padding: 15px 15px;
+  border-radius: 10px;
+
+}
+.Zap-foto{
+  background-color: azure;
+  padding: 15px 15px;
+  border-radius: 10px;
+}
